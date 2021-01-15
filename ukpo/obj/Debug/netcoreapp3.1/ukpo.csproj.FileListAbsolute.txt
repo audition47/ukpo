@@ -1,0 +1,12 @@
+D:\Users\mrkhe\Nextcloud\учеба\4 курс\7 семестр\Управление качеством программного обеспечения\ukpo\ukpo\bin\Debug\netcoreapp3.1\ukpo.exe
+D:\Users\mrkhe\Nextcloud\учеба\4 курс\7 семестр\Управление качеством программного обеспечения\ukpo\ukpo\bin\Debug\netcoreapp3.1\ukpo.deps.json
+D:\Users\mrkhe\Nextcloud\учеба\4 курс\7 семестр\Управление качеством программного обеспечения\ukpo\ukpo\bin\Debug\netcoreapp3.1\ukpo.runtimeconfig.json
+D:\Users\mrkhe\Nextcloud\учеба\4 курс\7 семестр\Управление качеством программного обеспечения\ukpo\ukpo\bin\Debug\netcoreapp3.1\ukpo.runtimeconfig.dev.json
+D:\Users\mrkhe\Nextcloud\учеба\4 курс\7 семестр\Управление качеством программного обеспечения\ukpo\ukpo\bin\Debug\netcoreapp3.1\ukpo.dll
+D:\Users\mrkhe\Nextcloud\учеба\4 курс\7 семестр\Управление качеством программного обеспечения\ukpo\ukpo\bin\Debug\netcoreapp3.1\ukpo.pdb
+D:\Users\mrkhe\Nextcloud\учеба\4 курс\7 семестр\Управление качеством программного обеспечения\ukpo\ukpo\obj\Debug\netcoreapp3.1\ukpo.AssemblyInfoInputs.cache
+D:\Users\mrkhe\Nextcloud\учеба\4 курс\7 семестр\Управление качеством программного обеспечения\ukpo\ukpo\obj\Debug\netcoreapp3.1\ukpo.AssemblyInfo.cs
+D:\Users\mrkhe\Nextcloud\учеба\4 курс\7 семестр\Управление качеством программного обеспечения\ukpo\ukpo\obj\Debug\netcoreapp3.1\ukpo.csproj.CoreCompileInputs.cache
+D:\Users\mrkhe\Nextcloud\учеба\4 курс\7 семестр\Управление качеством программного обеспечения\ukpo\ukpo\obj\Debug\netcoreapp3.1\ukpo.dll
+D:\Users\mrkhe\Nextcloud\учеба\4 курс\7 семестр\Управление качеством программного обеспечения\ukpo\ukpo\obj\Debug\netcoreapp3.1\ukpo.pdb
+D:\Users\mrkhe\Nextcloud\учеба\4 курс\7 семестр\Управление качеством программного обеспечения\ukpo\ukpo\obj\Debug\netcoreapp3.1\ukpo.genruntimeconfig.cache
