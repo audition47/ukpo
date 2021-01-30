@@ -25,7 +25,7 @@ namespace Floyd_Algorithm
         {
 
             // Чтение данных из файла
-            int[,] M = ReadFromFile(args[0]);
+            int[,] M = ReadFromFile(args[5]);
             // Определение максимального расстояния
             UnreachWay = 0;
             for (int i1 = 0; i1 < Count; i1++)
@@ -89,7 +89,7 @@ public static void CorrectMatrixFloyd(ref int[,] m, int count)
 /// <summary>
 /// Чтение данных из файла
 /// </summary>
-///<param name = "fileName" > input.txt </ param >;
+///<param filename = "input.txt" > input.txt </ param >;
 /// <returns>Масив - матрица</returns>
 public static int[,] ReadFromFile(string fileName)
 {
