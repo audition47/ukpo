@@ -17,9 +17,7 @@ jobs:
       uses: actions/setup-dotnet@v1
       with:
         dotnet-version: 5.0.x
-    - name: Restore dependencies
-      run: dotnet restore
     - name: Build
-      run: dotnet build --no-restore ./ukpo/
+      run: dotnet build --no-restore ./ukpo/ukpo.sln
     - name: Test
-      run: dotnet test --no-build --verbosity normal ./ukpo_test/
+      run: dotnet test --no-build --verbosity normal ./ukpo_test/UnitTest1.cs
