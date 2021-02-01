@@ -6,5 +6,5 @@ dotnet:2.0.0-preview2-006497
 before_script:
   - dotnet restore
 script:  
-  - dotnet test .\ukpo_test\UnitTest1.cs
+  - dotnet test ./ukpo_test/
 
