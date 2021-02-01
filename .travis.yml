@@ -1,13 +1,10 @@
-language: csharp
-
-dotnet: 2.1.4
-sudo: false
-
-env: 
-    global:
-        - DOTNET_CLI_TELEMETRY_OPTOUT: 1
-
-script: 
-    - dotnet build ukpo/ukpo.sln -c Release
-    - dotnet test ./ukpo_test/
+language: csharp  
+sudo: required  
+dist: trusty  
+mono: none
+dotnet:2.0.0-preview2-006497
+before_script:
+  - dotnet restore
+script:  
+  - dotnet test .\ukpo_test\
 
