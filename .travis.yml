@@ -7,4 +7,3 @@ before_script:
   - dotnet restore
 script:  
   - dotnet test ./ukpo_test/
-
