@@ -9,5 +9,5 @@ env:
 
 script: 
     - dotnet build FSharpWebAppWithCIDemo.sln -c Release
-    - dotnet test -c Release --no-build ukpo_test/ukpo_test.csproj /p:CollectCoverage=true /p:CoverletOutputFormat=opencover
+    - dotnet test -c Release --no-build ./ukpo_test/ /p:CollectCoverage=true /p:CoverletOutputFormat=opencover
 
