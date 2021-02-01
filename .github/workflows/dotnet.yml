@@ -9,4 +9,4 @@ jobs:
     runs-on: windows-latest
     steps:
       - uses: actions/checkout@v2.1.0
-      - run: ukpo_test/ukpo_test.csproj
+      - run: ukpo_test/UnitTest1.cs
