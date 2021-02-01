@@ -1,7 +1,7 @@
 language: csharp
 mono: none
 dotnet: 3.1
-solution: KP.sln
+solution: ukpo/ukpo.sln
 install:
   - dotnet restore
 script:
